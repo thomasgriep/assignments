@@ -5,3 +5,4 @@ this contains my assignments
 
 [final python assignment](https://github.com/thomasgriep/assignments/blob/master/Final_Assignment_Python_2_students%2B(1).ipynb)
 
+[final R assignment](https://github.com/thomasgriep/assignments/blob/master/resit%2Bexam%2Bexercise%2B(1).ipynb)
